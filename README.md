@@ -1,2 +1,2 @@
 # Web-Development
-The course to practice the web dev
+Grid slicing
