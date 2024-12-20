@@ -1,2 +1,2 @@
 # Web-Development
-Grid slicing
+JavaScript project should be added
